@@ -7,8 +7,8 @@ const FILES_TO_CACHE = [
   "/icons/icon-512x512.png",
   "/styles.css",
   "/index.js",
-  "/routes/api.js",
   "/models/transaction.js",
+  "manifest.webmanifest",
 ];
 
 // install
