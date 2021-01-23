@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Progressive Budget
 
 ## Table of Contents
 
@@ -13,19 +13,19 @@
 
 ### Description<a name="description"></a>
 
-Plan the perfect workout!
+Track your budget online AND offline!
 
 ### Installation<a name="installation"></a>
 
-npm install in /Develop
+run `npm i`
 
 ### Usage<a name="usage"></a>
 
-Just answer the prompted questions and the application will create your README using your inputs.
+Input a transaction name and amount, and click either `Add Funds` or `Subtract Funds` to add funds to your budget or subtract funds to you budget. If used offline, the app will cache the data and update the application as soon as the user comes back online.
 
 ### Contributing<a name="contributing"></a>
 
-Justin Gabriele
+Justin Gabriele\
 
 ### Tests<a name="tests"></a>
 
