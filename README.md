@@ -20,7 +20,7 @@ run `npm i`
 
 ### Usage<a name="usage"></a>
 
-Input a transaction name and amount, and click either `Add Funds` or `Subtract Funds` to add funds to your budget or subtract funds to you budget. If used offline, the app will cache the data and update the application as soon as the user comes back online.
+Input a transaction name and amount, and click either `Add Funds` or `Subtract Funds` to add funds to your budget or subtract funds from your budget. If used offline, the app will cache the data and update the application as soon as the user comes back online.
 
 ![HW18SNIPone](https://user-images.githubusercontent.com/63600183/105610679-cd815600-5d7e-11eb-99de-e0604466b8b7.PNG)
 
